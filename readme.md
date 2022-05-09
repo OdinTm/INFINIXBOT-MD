@@ -77,8 +77,8 @@ $ yarn install
 --Una vez instalados abre la terminal bash o en visual studio, y ejecuta los siguientes
 comandos: 
 ```bash 
-git clone https://github.com/BochilGaming/games-wabot -b multi-device
-cd INFINIXBOT2022-MD
+git clone https://github.com/OdinTm/INFINIXBOT-MD
+cd INFINIXBOT-MD
 npm install
 npm update
 npm start
