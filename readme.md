@@ -5,11 +5,12 @@ DE WHATSAPP Y SU VERSION DE NEGOCIOS, NO SE GARANTIZA
 QUE FUNCIONE CORRECTAMENTE EN APPS ALTERADAS/MODIFICADAS
 
 ¡¡ Aun no se tiene una version estable de baileys MULTI-DEVICE, 
-por lo que se pueden presentar errores de conexion, si haces
-una bifurcacion de este repositorio y tienes un error de esos
+por lo que se pueden presentar errores de conexion, si tienes un error
 actualiza desde la terminal usando npm update @adiwajshing/baileys@4.1.0,
 si aun continua el error ve al repositorio oficial de baileys y revisa
-que exista una actualizacion del error o puedes reportar el bug.
+que exista una actualizacion del error o puedes reportar el bug. De 
+igual manera si se detecto el error y encuentro solucion aqui mismo te 
+dare los detalles. 
 
 Nota: Este es mi primer bot que adapto 100% al español creditos de la
 base utlizada al final.
