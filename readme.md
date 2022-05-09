@@ -21,7 +21,7 @@ base utlizada al final.
 
 
 #### Deploy en Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OdinTm/INFINIXBOT2022-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OdinTm/INFINIXBOT-MD)
 
 ## SI FALLA EL DEPLOY
 
