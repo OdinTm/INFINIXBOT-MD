@@ -41,8 +41,8 @@ EXP = Experiensa de uso del bot
 Se admite chat privado,se puede unir grupos (1 por usuario, y NOTA: Esto puede cambiar si el que este ejecutando este bot lo decide), sin embargo, al primer intento de robo o abuso del bot se baneará permanentemente y se tomaran cartas en el asunto. 
     
 🔹*Descarga del bot*:
-    
-Pendiente....
+ 
+Bot con descarga totalmente gratuita, link del respositorio en Github donde estan todas las instrucciones como instalar en android y windows: https://github.com/OdinTm/INFINIXBOT-MD
 
 🔹*SUB-BOTS*
 
