@@ -52,7 +52,7 @@ $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/OdinTm/INFINIXBOT2022-MD (si descargas el archivo zip: cd storage)
 $ cd INFINIXBOT2022-MD
-$ npm install  (si te da error de symlink ejecutar los comandos:  npm config set unsafe-perm true , npm install --no-bin-links )
+$ npm install --no-bin-links
 $ npm start
 ```
 2. Espera a que el bot inicie...
