@@ -1,4 +1,4 @@
-let pp = './media/gays.png'
+let pp = './media/gays.jpg'
 let user = a => '@' + a.split('@')[0]
 function handler(m, { groupMetadata }) {
 let ps = groupMetadata.participants.map(v => v.id)
@@ -31,7 +31,7 @@ ${author}
 `
     
 
- conn.sendFile(m.chat, pp, './media/gays.png', lista, m, null, {
+ conn.sendFile(m.chat, pp, './media/gays.jpg', lista, m, null, {
             contextInfo: {
                 mentionedJid: [a, b, c, d, e, f, g, h, i, j] [lista]
             }
