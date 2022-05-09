@@ -50,6 +50,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
+$ pkg install yarn
 $ git clone https://github.com/OdinTm/INFINIXBOT2022-MD (si descargas el archivo zip: cd storage)
 $ cd INFINIXBOT2022-MD
 $ npm install --no-bin-links
