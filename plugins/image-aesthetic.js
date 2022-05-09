@@ -1,0 +1,90 @@
+import fetch from 'node-fetch'
+let handler = async (m, { conn }) => {
+	let url = aes.getRandom()
+
+  await conn.sendButton(m.chat, '🔹🔹𝘼𝙦𝙪𝙞 𝙩𝙞𝙚𝙣𝙚𝙨 𝙩𝙪 𝙬𝙖𝙡𝙡𝙥𝙖𝙥𝙚𝙧', author, url, [['SIGUIENTE ➡', `#aesthetic`]], m)}
+
+handler.command = /^(aesthetic)$/i
+
+handler.help = ['ᴀᴇꜱᴛʜᴇᴛɪᴄ']
+handler.tags = ['descargas'] 
+
+handler.limit = true
+global.aes = [
+  "https://wallpaperaccess.com/full/525389.jpg",
+  "https://wallpaperaccess.com/full/678289.png",
+  "https://wallpaperaccess.com/full/649107.jpg",
+  "https://wallpaperaccess.com/full/716389.jpg",
+  "https://wallpaperaccess.com/full/830.jpg",
+  "https://wallpaperaccess.com/full/716391.jpg",
+  "https://wallpaperaccess.com/full/716396.jpg",
+  "https://wallpaperaccess.com/full/716397.jpg",
+  "https://wallpaperaccess.com/full/716399.png",
+  "https://wallpaperaccess.com/full/664699.jpg",
+  "https://wallpaperaccess.com/full/154966.jpg",
+  "https://wallpaperaccess.com/full/716402.jpg",
+  "https://wallpaperaccess.com/full/202626.jpg",
+  "https://wallpaperaccess.com/full/632868.jpg",
+  "https://wallpaperaccess.com/full/244972.jpg",
+  "https://wallpaperaccess.com/full/146335.jpg",
+  "https://wallpaperaccess.com/full/660634.jpg",
+  "https://wallpaperaccess.com/full/716413.jpg",
+  "https://wallpaperaccess.com/full/626392.jpg",
+  "https://wallpaperaccess.com/full/663913.jpg",
+  "https://wallpaperaccess.com/full/716416.jpg",
+  "https://wallpaperaccess.com/full/716419.jpg",
+  "https://wallpaperaccess.com/full/716421.jpg",
+  "https://wallpaperaccess.com/full/629776.jpg",
+  "https://wallpaperaccess.com/full/155016.jpg",
+  "https://wallpaperaccess.com/full/693695.jpg",
+  "https://wallpaperaccess.com/full/716426.jpg",
+  "https://wallpaperaccess.com/full/635997.jpg",
+  "https://wallpaperaccess.com/full/716429.jpg",
+  "https://wallpaperaccess.com/full/660650.jpg",
+  "https://wallpaperaccess.com/full/250378.jpg",
+  "https://wallpaperaccess.com/full/716434.jpg",
+  "https://wallpaperaccess.com/full/716435.jpg",
+  "https://wallpaperaccess.com/full/716438.jpg",
+  "https://wallpaperaccess.com/full/716439.jpg",
+  "https://wallpaperaccess.com/full/716440.jpg",
+  "https://wallpaperaccess.com/full/716441.jpg",
+  "https://wallpaperaccess.com/full/716443.jpg",
+  "https://wallpaperaccess.com/full/716444.jpg",
+  "https://wallpaperaccess.com/full/656618.jpg",
+  "https://wallpaperaccess.com/full/627576.jpg",
+  "https://wallpaperaccess.com/full/660859.jpg",
+  "https://wallpaperaccess.com/full/716450.jpg",
+  "https://wallpaperaccess.com/full/401781.png",
+  "https://wallpaperaccess.com/full/182905.jpg",
+  "https://wallpaperaccess.com/full/716457.jpg",
+  "https://wallpaperaccess.com/full/716458.jpg",
+  "https://wallpaperaccess.com/full/155024.jpg",
+  "https://wallpaperaccess.com/full/847444.jpg",
+  "https://wallpaperaccess.com/full/17926.jpg",
+  "https://wallpaperaccess.com/full/847451.jpg",
+  "https://wallpaperaccess.com/full/837.jpg",
+  "https://wallpaperaccess.com/full/154955.jpg",
+  "https://wallpaperaccess.com/full/807.jpg",
+  "https://wallpaperaccess.com/full/851.jpg",
+  "https://wallpaperaccess.com/full/168769.jpg",
+  "https://wallpaperaccess.com/full/810.jpg",
+  "https://wallpaperaccess.com/full/27460.jpg",
+  "https://wallpaperaccess.com/full/22502.jpg",
+  "https://wallpaperaccess.com/full/168826.jpg",
+  "https://wallpaperaccess.com/full/168849.jpg",
+  "https://wallpaperaccess.com/full/168856.jpg",
+  "https://wallpaperaccess.com/full/289291.jpg",
+  "https://wallpaperaccess.com/full/289292.jpg",
+  "https://wallpaperaccess.com/full/711308.jpg",
+  "https://wallpaperaccess.com/full/525258.jpg",
+  "https://wallpaperaccess.com/full/657610.jpg",
+  "https://wallpaperaccess.com/full/711318.png",
+  "https://wallpaperaccess.com/full/657639.jpg",
+  "https://wallpaperaccess.com/full/679021.jpg",
+  "https://wallpaperaccess.com/full/679039.jpg",
+  "https://wallpaperaccess.com/full/679058.png",
+  "https://wallpaperaccess.com/full/679099.jpg",
+  "https://wallpaperaccess.com/full/679115.jpg"
+]
+
+export default handler
