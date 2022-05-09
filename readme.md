@@ -53,7 +53,7 @@ $ pkg install imagemagick -y
 $ pkg install yarn
 $ git clone https://github.com/OdinTm/INFINIXBOT-MD.git (si descargas el archivo zip: cd storage)
 $ cd INFINIXBOT-MD
-$ npm install --no-bin-links
+$ npm install NOTA: si aparece error "symlink" ejecutar: npm install --no-bin-links
 $ npm start
 ```
 2. Espera a que el bot inicie...
