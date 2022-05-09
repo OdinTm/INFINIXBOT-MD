@@ -1,8 +1,8 @@
 # INFINIX-BOT 2022 BY: @ODIN
 
 **BOT FUNCIONANDO CORRECTAMENTE EN LA APP OFICIAL
-DE WHATSAPP Y SU VERSION BUSISSNES, NO SE RECOMIENDAN
-VERSIONES ALTERADAS/MODIFICADAS DE LAS MISMAS.
+DE WHATSAPP Y SU VERSION DE NEGOCIOS, NO SE GARANTIZA 
+QUE FUNCIONE CORRECTAMENTE EN APPS ALTERADAS/MODIFICADAS
 
 ¡¡ Aun no se tiene una version estable de baileys MULTI-DEVICE, 
 por lo que se pueden presentar errores de conexion, si haces
@@ -52,7 +52,7 @@ $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/OdinTm/INFINIXBOT2022-MD (si descargas el archivo zip: cd storage)
 $ cd INFINIXBOT2022-MD
-$ npm install  (si te da error de symlink ejecutar los comandos:  npm config set unsafe-perm true , npm install --no-bin-links )
+$ npm install --no-bin-links
 $ npm start
 ```
 2. Espera a que el bot inicie...
@@ -77,8 +77,8 @@ $ yarn install
 --Una vez instalados abre la terminal bash o en visual studio, y ejecuta los siguientes
 comandos: 
 ```bash 
-git clone https://github.com/BochilGaming/games-wabot -b multi-device
-cd INFINIXBOT2022-MD
+git clone https://github.com/OdinTm/INFINIXBOT-MD
+cd INFINIXBOT-MD
 npm install
 npm update
 npm start
