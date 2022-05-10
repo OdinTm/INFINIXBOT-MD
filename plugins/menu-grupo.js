@@ -33,8 +33,8 @@ const defaultMenu = {
 │➼• .ɢʀᴜᴘᴏ ᴏᴘᴇɴ / ᴄʟᴏꜱᴇ
 │➼• .ɪɴᴠᴏᴄᴀʀ
 │➼• .ᴋɪᴄᴋ @ᴜsᴇʀ
-│➼• .ᴘʀᴏᴍᴏᴛᴇ @usuario
-│➼• .ᴅᴇᴍᴏᴛᴇ @usuario
+│➼• .ᴘʀᴏᴍᴏᴠᴇʀ @usuario
+│➼• .ᴅᴇɢʀᴀᴅᴀʀ @usuario
 ┗───── • ─────•
 
 `.trimStart(),after: `
