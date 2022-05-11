@@ -13,7 +13,9 @@ igual manera si se detecto el error y encuentro solucion aqui mismo te
 dare los detalles. 
 
 Nota: Este es mi primer bot que adapto 100% al español creditos de la
-base utlizada al final.
+base utlizada al final. *BOT SIN FINES DE LUCRO 100% GRATUITO SI
+EDITAS FAVOR DE NO AGREGAR SCRIP DE DONACIONES PUESTO QUE EL PROYECTO
+NO ESTA HECHO CON DICHO FIN*
 
 ##Grupo Oficial de Whatsapp
 
