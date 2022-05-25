@@ -19,7 +19,7 @@ NO ESTA HECHO CON DICHO FIN*
 
 ##Grupo Oficial de Whatsapp
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FYQ2L2wPuR958AOXogzmHY) 
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/C63fWed1OzRJtToqAptmB4) PROHIBIDO +212
 
 
 #### Deploy en Heroku
