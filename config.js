@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 global.owner = [
-  ['5214774739565'], //cambia aqui para ser el owner
+  ['56977774748'], //cambia aqui para ser el owner
   ['18608548497'],
   ['5214774739565', '©Odin™✓', true]
 ] // Pon tu número aquí
