@@ -6,7 +6,7 @@ global.owner = [
   ['18608548497'],
   ['5214774739565', '©Odin™✓', true]
 ] // Pon tu número aquí
-global.mods = ['5214774739565'] // ¿Quieres ayuda?
+global.mods = ['51998140008'] // ¿Quieres ayuda?
 global.prems = ['5214774739565',] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
 global.APIs = { // API Prefix
   // name: 'https://website'
